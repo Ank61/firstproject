@@ -1,0 +1,126 @@
+.mainfooter{
+    background-color: rgb(229, 229, 223);
+    width: 1266px;
+    height: 220px;
+    margin-top: 30px;
+}
+.subdiv{
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-right: 100px;
+}
+p{
+    font-size: medium;
+}
+hr{
+    width: 100%;
+    background-color: rgb(161, 156, 156);
+    color:rgb(161, 156, 156);
+    height: 1px;
+
+}
+.first{
+    padding-left: 0px;
+    color: black;
+    font-size: small;
+}
+.others{
+    padding-left: 140px;
+    color: black;
+    font-size: small;
+}
+.othersl{
+    padding-left: 170px;
+    color: black;
+    font-size: small;
+}
+.others2{
+    padding-left: 257px;
+    color: black;
+    font-size: small;
+}
+.others21{
+    padding-left: 137px;
+    color: black;
+    font-size: small;
+}
+.others3{
+    padding-left: 285px;
+    color: black;
+    font-size: small;
+}
+.others31{
+    padding-left: 144px;
+    color: black;
+    font-size: small;
+}
+.button{
+    color:white;
+    font-size:medium;
+    background-color:rgb(192, 126, 44);
+    text-decoration: white;
+    border-radius: 7px;
+    border-style:hidden;
+    height: 32px;
+    width: 100px;
+    border-color: rgb(192, 126, 44);
+    margin-left: 180px;
+}
+.others4{
+    padding-left: 283px;
+    color: black;
+    font-size: small;
+}
+.others41{
+    padding-left: 126px;
+    color: black;
+    font-size: small;
+}
+.others42{
+    padding-left: 182px;
+    color: black;
+    font-size: smaller;
+}
+.others5{
+    padding-left: 253px;
+    color: black;
+    font-size: small;
+}
+.others51{
+    padding-left: 139px;
+    color: black;
+    font-size: small;
+}
+.icons1{
+    margin-left: 155px;
+    width: 40px;
+}
+.icons{
+    margin-left: 20px;
+    width: 40px;
+}
+
+.image4{
+    width: 180px;
+}
+.image2{
+    margin-left: 440px;
+    width:120px;
+}
+.image3{
+    padding-left: 18px;
+}
+.image5{
+    padding-left: 1px;
+    width: 80px;
+}
+.image7{
+    padding-left: 19px;
+    width: 80px;
+}
+
+.hotel{
+    text-align: left;
+    font-size: smaller;
+    color:black;
+}

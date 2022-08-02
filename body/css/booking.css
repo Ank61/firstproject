@@ -1,0 +1,49 @@
+.Findyou{
+    width:1000px;
+    height: 350px;
+margin-left: 140px;
+margin-top: 30px;
+background-color: bisque;
+border-radius: 15px;
+margin-bottom: 30px;
+text-align:center;
+}
+.firstinput{
+display: block;
+margin-left:360px;
+border:solid white 2px;
+width:300px;
+height:30px;
+background-color: bisque;
+border-radius: 4px;
+}
+.secondinput{
+    display:block;
+    margin-left:360px;
+border:solid white 2px;
+background-color: bisque;
+border-radius: 4px;
+width:300px;
+height:30px;
+
+
+}
+.para{
+
+}
+.bu{
+    color:white;
+    font-size:medium;
+    background-color:rgb(192, 126, 44);
+    text-decoration: white;
+    border-radius: 7px;
+    border-style:hidden;
+    height: 32px;
+    width: 150px;
+    border-color: rgb(192, 126, 44);
+}
+.heading{
+    margin-top:40px;
+    padding-top: 20px;
+    margin-left: 1px;
+}

@@ -1,0 +1,44 @@
+.ig1{
+    margin-left: 50px;
+    width: 200px;
+}
+.ig2{
+margin-left: 50px;
+width: 200px;
+}
+.ig3{
+    margin-left: 50px;
+    width: 200px;
+}
+.ig4{
+    margin-top:50px;
+    margin-left: 50px;
+    width: 160px;
+}
+.ig5{
+    margin-top:50px;
+    margin-left: 50px;
+    width: 200px;
+}
+.ourpartners{
+    margin-left: 290px;
+    padding-left: 50px;
+    width: 600px;
+    height:500px;
+    background-color:white;
+
+}
+.containerr{
+    margin-top: 30px;
+    position: relative;
+  text-align: center;
+  color: white;
+  margin-bottom: 280px;
+}
+.hh{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}

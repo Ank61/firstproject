@@ -1,0 +1,67 @@
+/* .searchbox{
+    margin-left: 0px;
+    margin-top: 40px;
+    size:50%;
+    width: 1000px;
+    height: 50px;
+    border-radius: 9px;
+    background-color: rgb(211, 207, 207);
+    border-color: white;
+} */
+.searchbox{
+    background-color:  rgb(229, 223, 223);
+    border: none;
+    width: 340px;
+    height: 45px;
+    border-color:  rgb(229, 223, 223);
+    font-size: large;
+}
+.div{
+    margin-left: 190px;
+    margin-top: 60px;
+    background-color: rgb(229, 223, 223);
+    border-radius: 9px;
+    width: 900px;
+    height: 48px;
+}
+.div2{
+    margin-left: 40px;
+    display: inline;
+    background-color:  rgb(229, 223, 223);
+    width: 100px;
+}
+.div3{
+    margin-left: 10px;
+    display: inline;
+    background-color: rgb(229, 223, 223);
+    width: 100px;
+
+}
+.divline{
+    display: inline;
+    background-color:black;
+    width: 5px;
+    height: 20px;
+}
+.cars{
+    background-color: rgb(229, 223, 223);
+    border: none;
+    font-size: large;
+    color:rgb(192, 126, 44);
+}
+.label{
+    font-size: large;
+}
+.list{
+
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+    border-radius: 9px;
+    margin-top: 30px;
+    margin-left: 340px;
+    width:600px;
+    height: 500px;
+}
+.iconn{
+    margin-left:10px;
+}

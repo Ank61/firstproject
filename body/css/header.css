@@ -1,0 +1,39 @@
+.header{
+}
+
+.mainHeader{
+    float:left;
+    padding-right:10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+} 
+.title{
+    margin-bottom: 30px;
+    margin-left: 90px;
+    padding-top: 30px;
+    /* padding-left: 30px; */
+}
+.button1{
+    padding-right: 16px;
+    text-align: center;
+    color:white;
+    font-size:large;
+    background-color:rgb(192, 126, 44);
+    text-decoration: white;
+    border-radius: 2px;
+    border-style:hidden;
+    height: 32px;
+    width: 40px;
+    border-color: rgb(192, 126, 44);
+  
+}
+
+a{ 
+    padding-left: 30px;
+    text-decoration: none;
+    color:rgb(63, 60, 60);
+    font-size: small;
+}
+.logo{
+    width:60px;
+}
