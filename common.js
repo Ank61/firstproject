@@ -5,8 +5,10 @@ class MyHeader extends HTMLElement
         this.innerHTML =`
 
         <div class='Header'>
+        <div class="log">
             <a href="./index.html">
             <img src="./footlogo2.png"  class="logo" ></img></a>
+        </div>
             <a href="./ourhotel.html" >OUR HOTELS</a>
             <a href="./dining.html" >DINING</a>
 
@@ -18,7 +20,45 @@ class MyHeader extends HTMLElement
             <a href="./booking.html" >FIND BOOKING</a>
             <a href="./ourpartners.html" >OUR PARTNERS</a>
             <a href="./signin.html" >SIGN IN</a> &nbsp; &nbsp;&nbsp;&nbsp;
-            <a class='button1' href="./signin.html">Book a Stay</a>
+            <div class="hed">
+            <button class="btn btn-warning "
+                    data-toggle = 'modal'
+                    data-target = '#my_division'>Register</button>
+        </div>
+
+        <div id = "my_division" 
+             class="modal fade"
+             data-keyboard = 'false'
+             data-backdrop = 'static'>
+            <div class="modal-dialog modal-sm modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <p class="h5 modal-title">Registration Form</p>
+                        <button data-dismiss = 'modal' class="close">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="form-group">
+                                <label>Username:</label>
+                                <input type="text" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label>Email:</label>
+                                <input type="email" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label>Phone Number</label>
+                                <input type="number" class="form-control">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-success">Save </button>
+                        <button class="btn btn-danger" data-dismiss = 'modal'>Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
             </div>    
         `
     }}customElements.define("my-header", MyHeader);

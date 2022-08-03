@@ -24,7 +24,7 @@ width: 200px;
     margin-left: 290px;
     padding-left: 50px;
     width: 600px;
-    height:500px;
+    height:200px;
     background-color:white;
 
 }
@@ -37,7 +37,7 @@ width: 200px;
 }
 .hh{
     position: absolute;
-    top: 35%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 

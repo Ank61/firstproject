@@ -47,13 +47,11 @@ background-color: rgb(182, 246, 246);
     height: 220px;
 }
 .maindi{
-    
+    margin-top: 30px;
     width:1200px;
     height:550px;
 }
-i{
-    margin-top: 30px;
-}
+
 h1{
 text-align: center;
 }

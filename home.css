@@ -30,15 +30,18 @@
     padding-left: 175px;
 }
 .pic2{
-    
+    margin-top: 20px;
+
     padding-left: 175px;
 
 }
 .pic3{
+    margin-top: 20px;
     
     padding-left: 175px;
 }
 .pic4{
+    margin-top: 20px;
     
     padding-left: 175px;
 }
@@ -46,28 +49,32 @@
 .text{
 
 float:left;
+padding-top: 15px;
     /* display:inline; */
 }
 .text1{
     float:left;
     font-size: small;
-    width: 190px;
+    width: 350px;
     color:white;
-    padding-left: 130px;
+    padding-left: 150px;
+
 }
 .text2{
     float:left;
     font-size: small;
-    width: 190px;
+    width: 250px;
     color:white;
-    padding-left: 35px;
+    padding-left: 25px;
+
 }
 .text3{
     float:left;
     font-size: small;
-    width: 190px;
+    width: 200px;
     color:white;
-    padding-left: 50px;
+    padding-left: 25px;
+
 }
 .text4{
     float:left;
@@ -75,10 +82,13 @@ float:left;
     width: 190px;
     color:white;
     padding-left: 35px;
+
 }
 .pic5{
+    margin-top: 15px;
+
     padding-left: 150px;
-    width: 200px;
+    width: 330px;
 }
 .enroll{
     color:white;
