@@ -54,3 +54,22 @@ background-color: rgb(182, 246, 246);
 i{
     margin-top: 30px;
 }
+h1{
+text-align: center;
+}
+.op{
+    margin-left: 1050px;
+    padding-right: 50px;
+    text-align: center;
+    color:white;
+    font-size:large;
+    background-color:rgb(192, 126, 44);
+    text-decoration: white;
+    border-radius: 2px;
+    border-style:hidden;
+    height: 29px;
+    width: 35px;
+    border-color: rgb(192, 126, 44);
+    border-radius: 6px;
+  
+}

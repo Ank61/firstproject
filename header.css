@@ -14,7 +14,7 @@
     /* padding-left: 30px; */
 }
 .button1{
-    padding-right: 16px;
+    padding-right: 19px;
     text-align: center;
     color:white;
     font-size:large;
@@ -25,6 +25,7 @@
     height: 32px;
     width: 40px;
     border-color: rgb(192, 126, 44);
+    border-radius: 6px;
   
 }
 
